@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'mlm_123',
-			'username'  => 'mlm_123',
-			'password'  => '786!@#QWEasd',
+			'database'  => 'mlm_1',
+			'username'  => 'root',
+			'password'  => 'pass',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',

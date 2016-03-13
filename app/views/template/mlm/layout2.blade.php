@@ -38,7 +38,7 @@ font-size: 16px;"> Account created : {{Auth::user()->created_at}} &nbsp;
       
       
        @if(Auth::user()->isAdmin)
-                 <a class="navbar-brand" href="/user/index">Admin User Setting</a> 
+                 <a class="btn btn-danger square-btn-adjust" href="/user/index">Admin User Setting</a> 
     
        @endif
       <a href="/user/logout" class="btn btn-danger square-btn-adjust">Logout</a>

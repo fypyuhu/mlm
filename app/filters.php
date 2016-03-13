@@ -43,7 +43,7 @@ Route::filter('auth', function()
 		}
 		else
 		{
-			return Redirect::guest('login');
+			return Redirect::guest('/');
 		}
 	}
 });
@@ -58,7 +58,7 @@ Route::filter('admin', function()
 		}
 		else
 		{
-			return Redirect::guest('/session/create');
+			return Redirect::guest('/');
 		}
 	}
       

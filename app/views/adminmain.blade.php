@@ -15,10 +15,6 @@
                             <a href="/admin/withdraws">Withdraws</a>
                             
                         </li>
-                          <li>
-                            <a href="/user/logout">logout</a>
-                            
-                        </li>
                        
                     </ul>
 @stop

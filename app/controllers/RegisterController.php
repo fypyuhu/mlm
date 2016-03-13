@@ -10,7 +10,7 @@ function postUser(){
 		{
                     
 
-			return Redirect::to('/register')->withErrors($validator);
+			return Redirect::to('/')->withErrors($validator);
   		
                         
                 }
@@ -32,11 +32,9 @@ function postUser(){
                         
                         $this->registerUser($username,$password,$name,$email,$ref,$city,$country,$mobileno);
 			
-                                return Redirect::to('login')->withMessage("Sucessfully Registered");
+                                return Redirect::to('/')->withMessage("Sucessfully Registered");
 				
 			
-
-			return View::make('register',['message' => $message,'name'  => $name,'username' => $username,'email' => $email]);
 		
 
 

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
 <meta name="author" content="">
-<title>Xeon | OnePage Responsive Theme</title>
+<title>MLM</title>
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/prettyPhoto.css" rel="stylesheet">
@@ -451,7 +451,11 @@ San Francisco, CA 94107<br>
           <h4 class="modal-title">Login Form</h4>
         </div>
         <div class="modal-body">
-          <p>@include('sessions.create')</p>
+          <p>@include('sessions.create')
+          
+          <li>  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#forget">Forget Password</button>
+
+          </p>
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -460,8 +464,12 @@ San Francisco, CA 94107<br>
       
     </div>
   </div>
-  
-  <div class="modal fade" id="register" role="dialog">
+@if($errors->count())
+<div role="" class="modal fade in" id="register" aria-hidden="false" style="display: block;">
+@else
+
+<div class="modal fade " id="register" role="dialog" >
+@endif    
     <div class="modal-dialog">
     
       <!-- Modal content-->
@@ -471,7 +479,7 @@ San Francisco, CA 94107<br>
           <h4 class="modal-title">Register Form</h4>
         </div>
         <div class="modal-body">
-          <p>Some text in the modal.</p>
+          <p>@include('register')</p>
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -480,7 +488,25 @@ San Francisco, CA 94107<br>
       
     </div>
   </div>
-  
+  <div class="modal fade" id="forget" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content" style="margin-top:10%;">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Recover Form</h4>
+        </div>
+        <div class="modal-body">
+          <p>@include('password.remind')</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
 @if(Session::has('message'))
 <?php $message = Session::get("message");?>
     @if(is_array($message))

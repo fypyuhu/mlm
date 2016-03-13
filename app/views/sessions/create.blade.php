@@ -24,8 +24,7 @@
                                         <br>
                                             <br>                                  <br>
 
-                                            <a href="/password/remind" style=" width:100%;" class="btn btn-primary btn-lg pull-right">Recover Password</a>
-                                        
+                                         
                        
                         
                         

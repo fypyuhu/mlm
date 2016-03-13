@@ -1,3 +1,5 @@
+	                              @include('partials.error.list')
+
 <form action="{{ action('RemindersController@postReset') }}" method="POST">
     
     <input type="hidden" name="token" value="{{ $token }}">

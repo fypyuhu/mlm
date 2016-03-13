@@ -1,4 +1,4 @@
-@extends('template.mlm.admin')
+@extends('template.mlm.layout2')
 
 
 @section('navigation')

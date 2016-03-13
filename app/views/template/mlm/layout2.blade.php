@@ -24,12 +24,27 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
+                @if(Auth::user()->isAdmin)
+                 <a class="navbar-brand" href="/admin/index">Admin Panel</a> 
+    
+                @else
                 <a class="navbar-brand" href="/user/index">User Panel</a> 
+                @endif
             </div>
   <div style="color: white;
 padding: 15px 50px 5px 50px;
 float: right;
-font-size: 16px;"> Account created : {{Auth::user()->created_at}} &nbsp; <a href="/user/logout" class="btn btn-danger square-btn-adjust">Logout</a> </div>
+font-size: 16px;"> Account created : {{Auth::user()->created_at}} &nbsp;
+      
+      
+       @if(Auth::user()->isAdmin)
+                 <a class="navbar-brand" href="/user/index">Admin User Setting</a> 
+    
+       @endif
+      <a href="/user/logout" class="btn btn-danger square-btn-adjust">Logout</a>
+  
+  
+  </div>
         </nav>   
            <!-- /. NAV TOP  -->
                 <nav class="navbar-default navbar-side" role="navigation">

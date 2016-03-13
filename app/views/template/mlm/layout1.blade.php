@@ -78,7 +78,10 @@
 <section id="services">
 <div class="container">
 <div class="box first">
-<div class="row">
+    <div class="row" >
+<div class="col-xs-12 center">
+        <h1>Services</h1>
+</div>
 <div class="col-md-4 col-sm-6">
 <div class="center">
 <i class="icon-apple icon-md icon-color1"></i>

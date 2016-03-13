@@ -5,7 +5,8 @@
 
 
 @section('content')
-	<table>
+
+<table>
 	<tr>
 	<form action="givepayment" method="post" >
 		<th>GIVE Commitio TO PARENTS :</th><th><input type="text" name="username" placeholder="Enter the Username"/></th><th><button type="submit">GIVE</button></th>
@@ -14,7 +15,6 @@
 	
 
 	</table>
-
 
 <table border="2" >
 	<tr>

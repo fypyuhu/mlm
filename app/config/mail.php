@@ -28,7 +28,7 @@ return array(
 	|
 	*/
 
-	'host' => 'mail.7coah.com',
+	'host' => 'happylifeltd.com',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'mlm@7coah.com', 'name' => 'mlm'),
+	'from' => array('address' => 'info@happylifeltd.com', 'name' => 'Recovery'),
 
 	/*
 	|--------------------------------------------------------------------------
@@ -80,7 +80,7 @@ return array(
 	|
 	*/
 
-	'username' => 'mlm@7coah.com',
+	'username' => 'root',
 
 	/*
 	|--------------------------------------------------------------------------

@@ -54,7 +54,7 @@ return array(
 	|
 	*/
 
-	'from' => array('address' => 'info@happylifeltd.com', 'name' => 'Recovery'),
+	'from' => array('address' => 'root@happylifeltd.com', 'name' => 'Recovery'),
 
 	/*
 	|--------------------------------------------------------------------------

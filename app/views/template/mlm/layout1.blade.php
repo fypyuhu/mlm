@@ -84,44 +84,46 @@
 </div>
 <div class="col-md-4 col-sm-6">
 <div class="center">
-<i class="icon-apple icon-md icon-color1"></i>
-<h4>iOS development</h4>
-<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+<i class="icon-ok icon-md icon-color1"></i>
+<h4>3 different products</h4>
+<p>
+We will provide you three types of different products including imported shirts , t-shirts and orginal branded pents. This all will belongs to real marketing
+</p>
 </div>
 </div> 
 <div class="col-md-4 col-sm-6">
 <div class="center">
-<i class="icon-android icon-md icon-color2"></i>
-<h4>Android development</h4>
-<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+<i class="icon-credit-card icon-md icon-color2"></i>
+<h4>Online Perfect Money Payments</h4>
+<p>We provide a online payment service for our clients. They can easily purchase their woods by paying online using perfect money.</p>
 </div>
 </div> 
 <div class="col-md-4 col-sm-6">
 <div class="center">
-<i class="icon-windows icon-md icon-color3"></i>
-<h4>Windows Phone development</h4>
-<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+<i class="icon-thumbs-up-alt icon-md icon-color3"></i>
+<h4>Inner Balance Transfer</h4>
+<p>We facilitate our users to transfer thier account balance to other users. So they can easily share there balance for faster withdrawals.</p>
 </div>
 </div> 
 <div class="col-md-4 col-sm-6">
 <div class="center">
-<i class="icon-html5 icon-md icon-color4"></i>
-<h4>Ruby on Rails development</h4>
-<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+<i class="icon-dollar icon-md icon-color4"></i>
+<h4>Instant Withdrawals</h4>
+<p>When ever you request a withdraw. we made it instantly in 1 hour.</p>
 </div>
 </div> 
 <div class="col-md-4 col-sm-6">
 <div class="center">
-<i class="icon-css3 icon-md icon-color5"></i>
-<h4>Javascript development</h4>
-<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+<i class="icon-eye-open icon-md icon-color5"></i>
+<h4>Security</h4>
+<p>We are not running our website on shared hosting. We got our own dedicated servers. So Site is up for 24/7 hours and your data is secured.</p>
 </div>
 </div> 
 <div class="col-md-4 col-sm-6">
 <div class="center">
-<i class="icon-thumbs-up icon-md icon-color6"></i>
+<i class="icon-desktop icon-md icon-color6"></i>
 <h4>Responsive web design</h4>
-<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+<p>Our web is Responsive so you can easily use it through your mobile.</p>
 </div>
 </div> 
 </div> 

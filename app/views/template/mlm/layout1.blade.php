@@ -280,19 +280,19 @@ IN vary simple words just by shopping you can earn upto 11000usd.
 <div class="col-sm-3">
 <div class="member">
 <p><img class="img-responsive img-thumbnail img-circle" src="/images/members/fiaz.jpg" alt=""></p>
-<h3>Faiz Hussain<small class="designation">CEO &amp; Founder</small></h3>
+<h3>Fiaz Hussain<small class="designation">CEO &amp; Founder</small></h3>
 </div>
 </div>
 <div class="col-sm-3">
 <div class="member">
 <p><img class="img-responsive img-thumbnail img-circle" src="/images/members/fiaz.jpg" alt=""></p>
-<h3>Faiz Hussain<small class="designation">CEO &amp; Founder</small></h3>
+<h3>Fiaz Hussain<small class="designation">CEO &amp; Founder</small></h3>
 </div>
 </div>
 <div class="col-sm-3">
 <div class="member">
-<p><img class="img-responsive img-thumbnail img-circle" src="images/team3.jpg" alt=""></p>
-<h3>Karen Richardson<small class="designation">Assitant Vice President</small></h3>
+<p><img class="img-responsive img-thumbnail img-circle" src="/images/members/karen.jpg" alt=""></p>
+<h3>Karen Richardson<small class="designation">Senior Web Developer</small></h3>
 </div>
 </div>
 </div>

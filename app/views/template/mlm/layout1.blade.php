@@ -40,7 +40,7 @@
 <li class="active"><a href="#main-slider"><i class="icon-home"></i></a></li>
 <li><a href="#services">Services</a></li>
 <li><a href="#portfolio">Portfolio</a></li>
-<li><a href="#pricing">Pricing</a></li>
+<li><a href="#pricing">How To Earn</a></li>
 <li><a href="#about-us">About Us</a></li>
 <li><a href="#contact">Contact</a></li>
 <li>  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#login">Login</button>
@@ -238,45 +238,131 @@
 <div class="container">
 <div class="box">
 <div class="center">
-<h2>See our Pricings</h2>
-<p class="lead">Pellentesque habitant morbi tristique senectus et netus et <br>malesuada fames ac turpis egestas.</p>
+<h2>See our How To You can be Millionare</h2>
+<p class="lead">Here is the plan to earn Money<br>Our System will make you a good earner.</p>
 </div> 
 <div class="big-gap"></div>
 <div id="pricing-table" class="row">
-<div class="col-sm-4">
+<div class="col-sm-6">
 <ul class="plan">
-<li class="plan-name">Basic</li>
-<li class="plan-price">$29</li>
-<li>5GB Storage</li>
-<li>1GB RAM</li>
-<li>400GB Bandwidth</li>
-<li>10 Email Address</li>
-<li>Forum Support</li>
-<li class="plan-action"><a href="#" class="btn btn-primary btn-lg">Signup</a></li>
+<li class="plan-name">Phase I</li>
+<li class="">In first phases you will have to shop for 35 usd and then you'll have to rafer other persona too by refering others you will get income .And when those members will reffer more members you will get income from them too .In the same way you will earn upto 7th level <br><br><br></li>
+<li>
+<table class="table table-bordered table-hover">
+    <thead >
+      <tr >
+        <th>Level No.</th>
+        <th>Per Shop Earn</th>
+        <th>Total Level Earn</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1st</td>
+        <td>2.5 usd</td>
+        <td>10  usd</td>
+      </tr>
+      <tr>
+        <td>2nd</td>
+        <td>2.0 usd</td>
+        <td>32  usd</td>
+      </tr>
+      <tr>
+        <td>3rd</td>
+        <td>1.5 usd</td>
+        <td>96  usd</td>
+      </tr>
+      <tr>
+        <td>4th</td>
+        <td>1.0 usd</td>
+        <td>256 usd</td>
+      </tr>
+      <tr>
+        <td>5th</td>
+        <td>0.8 usd</td>
+        <td>819 usd</td>
+      </tr>
+      <tr>
+        <td>6th</td>
+        <td>0.7 usd</td>
+        <td>2867    usd</td>
+      </tr>
+      <tr>
+        <td>7th</td>
+        <td>0.7 usd</td>
+        <td>11468  usd</td>
+      </tr>
+     
+    </tbody>
+  </table>
+
+</li>
+<li>with raffering you earn in phase one upto 15548 usd
+</li>
+
 </ul>
 </div> 
-<div class="col-sm-4">
-<ul class="plan featured">
-<li class="plan-name">Standard</li>
-<li class="plan-price">$49</li>
-<li>10GB Storage</li>
-<li>2GB RAM</li>
-<li>1TB Bandwidth</li>
-<li>100 Email Address</li>
-<li>Forum Support</li>
-<li class="plan-action"><a href="#" class="btn btn-primary btn-lg">Signup</a></li>
-</ul>
-</div> 
-<div class="col-sm-4">
+
+<div class="col-sm-6">
 <ul class="plan">
-<li class="plan-name">Advanced</li>
-<li class="plan-price">$199</li>
-<li>30GB Storage</li>
-<li>5GB RAM</li>
-<li>5TB Bandwidth</li>
-<li>1000 Email Address</li>
-<li>Forum Support</li>
-<li class="plan-action"><a href="#" class="btn btn-primary btn-lg">Signup</a></li>
+<li class="plan-name">Phase II</li>
+<li class="">
+    It is a very simple way .in this way each of that members will get income who will shop for 35 usd.In this way any member who shops from Happlife ltd comes under previous members in a specific way and it makes a matrix of 4x7  any member who will come in team of any other member a fix of amount his spended money will be divided between the upper members as shpwn in chart below 
+IN vary simple words just by shopping you can earn upto 11000usd.
+</li>
+<li>
+<table class="table table-bordered table-hover">
+    <thead >
+      <tr >
+        <th>Level No.</th>
+        <th>Per Shop Earn</th>
+        <th>Total Level Earn</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1st</td>
+        <td>2.0 usd</td>
+        <td>8.0 usd</td>
+      </tr>
+      <tr>
+        <td>2nd</td>
+        <td>1.5 usd</td>
+        <td>24  usd</td>
+      </tr>
+      <tr>
+        <td>3rd</td>
+        <td>1.0 usd</td>
+        <td>64  usd</td>
+      </tr>
+      <tr>
+        <td>4th</td>
+        <td>0.5 usd</td>
+        <td>128 usd</td>
+      </tr>
+      <tr>
+        <td>5th</td>
+        <td>0.5 usd</td>
+        <td>512 usd</td>
+      </tr>
+      <tr>
+        <td>6th</td>
+        <td>0.5 usd</td>
+        <td>2048    usd</td>
+      </tr>
+      <tr>
+        <td>7th</td>
+        <td>0.5 usd</td>
+        <td>8192  usd</td>
+      </tr>
+     
+    </tbody>
+  </table>
+
+</li>
+<li>without raffering you earn in phase two upto 11000 usd
+</li>
+
 </ul>
 </div> 
 </div>

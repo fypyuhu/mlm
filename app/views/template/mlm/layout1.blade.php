@@ -409,7 +409,7 @@ San Francisco, CA 94107<br>
 <div class="container">
 <div class="row">
 <div class="col-sm-6">
-&copy; 2013 <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a>. All Rights Reserved.
+&copy; 2016 <a target="_blank" href="/" title="HappylifeLTD">Happylifeltd</a>. All Rights Reserved.
 </div>
 <div class="col-sm-6">
 <img class="pull-right" src="images/shapebootstrap.png" alt="ShapeBootstrap" title="ShapeBootstrap">
@@ -510,7 +510,6 @@ San Francisco, CA 94107<br>
 
 </body>
 
-<!-- Mirrored from shapebootstrap.net/demo/html/xeon/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 12 Feb 2016 21:12:37 GMT -->
 </html>
 
 

@@ -39,7 +39,6 @@
 <ul class="nav navbar-nav">
 <li class="active"><a href="#main-slider"><i class="icon-home"></i></a></li>
 <li><a href="#services">Services</a></li>
-<li><a href="#portfolio">Portfolio</a></li>
 <li><a href="#pricing">How To Earn</a></li>
 <li><a href="#about-us">About Us</a></li>
 <li><a href="#contact">Contact</a></li>
@@ -130,112 +129,7 @@ We will provide you three types of different products including imported shirts 
 </div> 
 </div> 
 </section> 
-<section id="portfolio">
-<div class="container">
-<div class="box">
-<div class="center gap">
-<h2>Portfolio</h2>
-<p class="lead">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac<br>turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
-</div> 
-<ul class="portfolio-filter">
-<li><a class="btn btn-primary active" href="#" data-filter="*">All</a></li>
-<li><a class="btn btn-primary" href="#" data-filter=".bootstrap">Bootstrap</a></li>
-<li><a class="btn btn-primary" href="#" data-filter=".html">HTML</a></li>
-<li><a class="btn btn-primary" href="#" data-filter=".wordpress">Wordpress</a></li>
-</ul> 
-<ul class="portfolio-items col-4">
-<li class="portfolio-item apps">
-<div class="item-inner">
-<div class="portfolio-image">
-<img src="images/portfolio/thumb/item1.jpg" alt="">
-<div class="overlay">
-<a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item1.jpg"><i class="icon-eye-open"></i></a>
-</div>
-</div>
-<h5>Lorem ipsum dolor sit amet</h5>
-</div>
-</li> 
-<li class="portfolio-item joomla bootstrap">
-<div class="item-inner">
-<div class="portfolio-image">
-<img src="images/portfolio/thumb/item2.jpg" alt="">
-<div class="overlay">
-<a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item2.jpg"><i class="icon-eye-open"></i></a>
-</div>
-</div>
-<h5>Lorem ipsum dolor sit amet</h5>
-</div>
-</li> 
-<li class="portfolio-item bootstrap wordpress">
-<div class="item-inner">
-<div class="portfolio-image">
-<img src="images/portfolio/thumb/item3.jpg" alt="">
-<div class="overlay">
-<a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item3.jpg"><i class="icon-eye-open"></i></a>
-</div>
-</div>
-<h5>Lorem ipsum dolor sit amet</h5>
-</div>
-</li> 
-<li class="portfolio-item joomla wordpress apps">
-<div class="item-inner">
-<div class="portfolio-image">
-<img src="images/portfolio/thumb/item4.jpg" alt="">
-<div class="overlay">
-<a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item4.jpg"><i class="icon-eye-open"></i></a>
-</div>
-</div>
-<h5>Lorem ipsum dolor sit amet</h5>
-</div>
-</li> 
-<li class="portfolio-item joomla html">
-<div class="item-inner">
-<div class="portfolio-image">
-<img src="images/portfolio/thumb/item5.jpg" alt="">
-<div class="overlay">
-<a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item5.jpg"><i class="icon-eye-open"></i></a>
-</div>
-</div>
-<h5>Lorem ipsum dolor sit amet</h5>
-</div>
-</li> 
-<li class="portfolio-item wordpress html">
-<div class="item-inner">
-<div class="portfolio-image">
-<img src="images/portfolio/thumb/item6.jpg" alt="">
-<div class="overlay">
-<a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item6.jpg"><i class="icon-eye-open"></i></a>
-</div>
-</div>
-<h5>Lorem ipsum dolor sit amet</h5>
-</div>
-</li> 
-<li class="portfolio-item joomla html">
-<div class="item-inner">
-<div class="portfolio-image">
-<img src="images/portfolio/thumb/item5.jpg" alt="">
-<div class="overlay">
-<a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item5.jpg"><i class="icon-eye-open"></i></a>
-</div>
-</div>
-<h5>Lorem ipsum dolor sit amet</h5>
-</div>
-</li> 
-<li class="portfolio-item wordpress html">
-<div class="item-inner">
-<div class="portfolio-image">
-<img src="images/portfolio/thumb/item6.jpg" alt="">
-<div class="overlay">
-<a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item6.jpg"><i class="icon-eye-open"></i></a>
-</div>
-</div>
-<h5>Lorem ipsum dolor sit amet</h5>
-</div>
-</li> 
-</ul>
-</div> 
-</div> 
-</section> 
+
 <section id="pricing">
 <div class="container">
 <div class="box">

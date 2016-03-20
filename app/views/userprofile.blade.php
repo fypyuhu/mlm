@@ -6,7 +6,7 @@
 <h1>Profile</h1>
 
   <label style="color:red;">{{@$message}}</label>
-       <h4>Your refferal Link: <label style="color:green;">http://e4earning.com/register?ref={{@$user->username}}</label></h4>
+       <h4>Your refferal Link: <label style="color:green;">{{URL::to('/')}}?ref={{@$user->username}}</label></h4>
                            <div class="row row-stat">
                                         <form method="post">
                                             <div class="col-sm-6">

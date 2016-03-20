@@ -58,16 +58,16 @@
 <div class="item active">
 <div class="container">
 <div class="carousel-content">
-<h1>Free Onepage Theme</h1>
-<p class="lead">Xeon is the best free onepage responsive theme available arround the globe<br>Download it right now for free</p>
+<h1>Happylife Earning</h1>
+<p class="lead">There are two ways to earn in happylife.<br>Rigister and start earing for free</p>
 </div>
 </div>
 </div> 
 <div class="item">
 <div class="container">
 <div class="carousel-content">
-<h1>ShapeBootstrap.net</h1>
-<p class="lead">Download free but 100% premium quaility twitter Bootstrap based WordPress and HTML themes <br>from shapebootstrap.net</p>
+<h1>Earn More with Refferals</h1>
+<p class="lead">IN first way you can get income by reffering any one and in second wayyou can earn without reffering anyone <br>you don't have to work at all in second way ....</p>
 </div>
 </div>
 </div> 

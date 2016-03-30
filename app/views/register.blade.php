@@ -2,7 +2,7 @@
                                    	Fill the Forum and Register
 	                              @include('partials.error.list')
    {{Form::open(array('url' => '/register','method' => 'post'))}}
-                                <input name="ref" value="{{@$ref;}}" style="float:none; width:80%;" class="form-control" type="hidden">
+                                <input name="ref" value="{{\Input::get('ref')}}" style="float:none; width:80%;" class="form-control" type="hidden">
 	                                   	<div class="form-group">
                                                     <input name="name" value="{{@$name;}}" placeholder="Full Name" style="float:none; width:80%;" class="form-control" type="text">
 	                                    </div>

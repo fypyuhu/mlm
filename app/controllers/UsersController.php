@@ -378,25 +378,6 @@ class UsersController extends \BaseController {
 
 
 	
-	function addPayment(){
-
-		$admin = Input::get('admin');
-		$password = Input::get('password');
-		if($admin != "admin" && $password != "admin")
-			return "Admin username password is incorrect";
-
-		$username = Input::get('username');
-		$payment = 30;
-
-		$status  = "Active";	
-		User::where('username', $username)
-			->update(array('status' => $status ,'pmAmmount' =>$payment));
-
-
-		payToParents($username);	
-
-
-	}
 	function paytoParentI($username){
 
 		$user = User::whereUsername($username)->first();
